@@ -1,4 +1,4 @@
-Simple Maven example project
+Example project for using JsonPath (https://github.com/jayway/JsonPath) 
 =============
 
 Requirements
